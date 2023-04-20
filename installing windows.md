@@ -1,5 +1,5 @@
-#We're gonna have to reinstall windows. Fresh start etc etc
-##on a **windows laptop**
+# We're gonna have to reinstall windows. Fresh start etc etc
+## on a **windows laptop**
 1. download [media creation tool](https://go.microsoft.com/fwlink/?LinkId=691209)
 2. use the wizard
 3. get a usb stick
